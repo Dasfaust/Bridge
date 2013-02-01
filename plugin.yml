@@ -1,0 +1,4 @@
+name: Bridge
+main: com.survivorserver.Dasfaust.Bridge.Bridge
+version: 1.0.0
+softdepend: [Vault]
